@@ -1,0 +1,1 @@
+https://github.com/UUSOL/rsschool-cv/cv
