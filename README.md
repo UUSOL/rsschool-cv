@@ -1,1 +1,1 @@
-https://github.com/UUSOL/rsschool-cv/cv
+https://uusol.github.io/rsschool-cv/cv
